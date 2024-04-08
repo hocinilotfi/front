@@ -69,7 +69,7 @@ const StudentList = () => {
                     <Col>First Name</Col>
                     <Col>Family Name</Col>
                     <Col>Score</Col>
-                    <Col>Progress</Col>
+                    <Col>Needed Support</Col>
                 </Row>
                 {renderStudents()}
             </Container>
